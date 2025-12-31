@@ -5,6 +5,7 @@ This repository is the authoritative **casebook** for the
 > ⚠️ This repository contains a **completed and frozen standard**.
 >  
 > The current authoritative version is **Controllable AI Standard v1.0**.
+> standards/Controllable-AI-Standard-v1.0.md
 
 **Controllable AI Acceptance Standard**.
 
