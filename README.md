@@ -1,6 +1,11 @@
 # controllable-ai-casebook
 Authoritative casebook for the Controllable AI Acceptance Standard. This repository contains the first paired MAOK audit decisions (FAIL / ALLOW), demonstrating how AI-enhanced decisions are either prohibited or legally permitted to enter the real world under a charter-based governance framework.
 This repository is the authoritative **casebook** for the
+
+> ⚠️ This repository contains a **completed and frozen standard**.
+>  
+> The current authoritative version is **Controllable AI Standard v1.0**.
+
 **Controllable AI Acceptance Standard**.
 
 It contains the first paired MAOK audit decisions that demonstrate,
